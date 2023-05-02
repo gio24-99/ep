@@ -1,0 +1,75 @@
+collection of activities True
+incremental changes True
+business events Transactional Data
+impl success all the above
+Risks Phased Strategy
+ERP system- Enterprise resource planning (ERP) is a software system that helps 
+you run your entire business, supporting automation and processes in finance, human resources, 
+manufacturing, supply chain, services, procurement, and more.
+Advantages of ERP - Precise planning - We can calculate extremely precise costs of new business ideas, with much less probabilty of failure. 
+                    Easy access to management systems - We can see every department status in live.For example we always now how many ceratin products are left in warehouse.
+                    Higher management perfomance - It reduces needs of paperwork and manual data input, so there is less chance to make a human based error.
+                    Faster coordination - ERP system has minimal communication delay between departments of the company. Especially if company has network in multiple states or countries.
+Disadvantages of ERP - Large cost of ERP system development - Enterprise resource planning requires experienced team with years of experience. Good skills will ask for higher wages, so custom made ERP system will be pricey.
+                       However there are premade ERP systems on the market, which are lower in price, but for ceratin companies it will be less flexible, resulting in poor perfomance.
+                       Maintnance cost - After deploying ERP system it is not finished like that, company needs IT staff, because ERP system often need updates or even upgrades to make it more flexible for customer needs.
+		       So maintnance also ends up in big expenses, however after certain time, these expenses will be payd off.
+		       Training,Practice and Adaptation - Deploying ERP is not enough, It takes time for staff to learn at least basics of ERP and then master its full potential. Also not all staff members will be welcome for
+                       this system, because It will be hard for them, or they would think that they will lose their job because of it. That is because they are scared of new systems, because of it very often company has to fire 
+	               employees that behave like that.
+	               Takes time to utilize - ERP development is long and complex process, with stages of deployment, old data input, customization and etc which sometimes result in delays.
+ERP life cycle - Planning, Package selection,Implementation,Operation and maintenance
+Testings - Functional Testing - all modules are working or not.
+           Perfomance Testing - how software performs under heavy load and how fast it is.
+           Security Testing - For every company data security is main concern, so we must make sure that specially authorized employees can se special data.
+           Data testing - making sure we can access data from pevious systems.
+           User acceptance testing -  making sure end users make an approval for new system.
+
+
+
+ყოველდღიური საოპერაციო აქტივობები True
+types of data 3
+master data false
+implem success all
+small scale Big Bang
+ERP system- Enterprise resource planning (ERP) is a software system that helps 
+you run your entire business, supporting automation and processes in finance, human resources, 
+manufacturing, supply chain, services, procurement, and more.
+Advantages of ERP - Precise planning - We can calculate extremely precise costs of new business ideas, with much less probabilty of failure. 
+                    Easy access to management systems - We can see every department status in live.For example we always now how many ceratin products are left in warehouse.
+                    Higher management perfomance - It reduces needs of paperwork and manual data input, so there is less chance to make a human based error.
+                    Faster coordination - ERP system has minimal communication delay between departments of the company. Especially if company has network in multiple states or countries.
+Disadvantages of ERP - Large cost of ERP system development - Enterprise resource planning requires experienced team with years of experience. Good skills will ask for higher wages, so custom made ERP system will be pricey.
+                       However there are premade ERP systems on the market, which are lower in price, but for ceratin companies it will be less flexible, resulting in poor perfomance.
+                       Maintnance cost - After deploying ERP system it is not finished like that, company needs IT staff, because ERP system often need updates or even upgrades to make it more flexible for customer needs.
+		       So maintnance also ends up in big expenses, however after certain time, these expenses will be payd off.
+		       Training,Practice and Adaptation - Deploying ERP is not enough, It takes time for staff to learn at least basics of ERP and then master its full potential. Also not all staff members will be welcome for
+                       this system, because It will be hard for them, or they would think that they will lose their job because of it. That is because they are scared of new systems, because of it very often company has to fire 
+	               employees that behave like that.
+	               Takes time to utilize - ERP development is long and complex process, with stages of deployment, old data input, customization and etc which sometimes result in delays.
+ERP life cycle - Planning, Package selection,Implementation,Operation and maintenance
+Configuration refers to the pre-built features of an ERP system into one system and customization involves customizing the features in the system according to business needs.
+
+   მოცემული გვაქვს კომპანია, რომელიც საქმიანობს მანქანის ნაწილების შემოტანას და გაყიდვას სხვადასხვა მწარმოებლებისგან.  კომპანიას აქვს რამდენიმე ფილიალი,
+რომლებიც განაწილებულია სხვადასხვა ქალაქებში სხვადასხვა რაოდენობით, შესაბამისად ყველა ქალაქს აქვს თავისი საწყობი. ყველაფრის აღრიცხვა ხდება მოძველებული 
+ბუღალტრული მეთოდით, შესაბამისად თანამშრომლებს არ ააქვთ ინფორმაცია live რეჟიმში, თუ რა რაოდენობის სხვადასხვა ნაწილი არის საწყობებში ან თუნდაც რა
+რაოდენობის და რა სახის პროდუქციაა გაყიდული, რომელი პროდუქტი არის თითქმის ამოყიდული, შესაბამისად ხდება მწარმოებლისგან შეკვეთის დაგვიანება, რაც იწვევს
+საქონლის უქონლობას შესაბამისად კლიენტის დაკარგვასა და მის უკმაყოფილებას. ამის გამო ასევე რთულდება და ფერხდება საქონლის დისტანციურად გაყიდვა, მომხმარებელიუ განათავსებს
+შეკვეთას იმ პროდუქციაზე, რომელიც ამოწურულია, ეს გამოიწვევს შემდეგ შეცდომებს აღრიცხვასა და ბუღალტერიაში. საერთო ჯამში კომპანიის საქმიანობა ძალიან რთულდება და ხშირად 
+არის დაკავშირებული წაგებასთასნ. კომპანია მიხვდა, რომ საჭიროა სისტემის დანერგვა, რომელიც აღმოფქვრის მსგავს ქეისებს და თითქმის ნულთან დაიყვანს შეცდომებს, რათა მინიმალური
+გახდეს კომპანიის წაგება და მისი მუშაობისუნარიანობა გაიზარდოს, რომ აღარ იყოს გაურკვევლობა საწყობებს, მწარმოებელსა და ფილიალებს შორის.
+   ყველა კომპანიას სჭირდება ERP-ის შესაბამისი ფუნქციონალი. ამ შემთხვევაში, საჭირო იქნება საწყობის live რეჟიმში აღრიცხვა, რათა პროდუქცია მუდმივად იყოს მარაგში, 
+კომპანიამ იცოდეს, როდის უნდა განახორციელოს შემდეგი შეკვეთა მწარმოებელთან(ზუსტი ვადებიც გვეცოდინება, როდის განახლდება პროდუქციაზე მარაგი), ასევე ფილიალებში თანამშრომლებს 
+მუდამ ეცოდინებათ რა პროდუქცია აქვთ მარაგში და უპრობლემოდ შეძლებენ მის გაყიდვას, ასევე შესაძლებელი გახდება ინახოს, რომელი პროდუქცია არის ყველაზე პოპულარული და გაყიდვადი 
+ან ყველაზე ნაკლებად გაყიდვადი, ხოლო შემდგომ ამის გამოსწორების მიზნით შესაბამისი ღონისძიების გატარება. ასევე ბუღალტრული აღრიცხვა გამარტივდება და ასწრაფდება, ნაკლები შანსი 
+იქნება ადამიანური შეცდომის დაშვების, ნავაჭრისა და მოგების დათვლა ბევრად გამარტივებული და სწრაფი იქნება, მონაცემების შეყვანის შესაბამისად სწორად დაითვლება ყველაფერი. 
+დისტანციური და ონლაინ გაყიდვა გამარტივდება, ბევრად კომფორტული გახდება, ERP-ს წყალობით შესაძლებელი იქნება დროის გამოთვლა თუ რა დროში მივა პროდუქტი მომხმარებლამდე, 
+რომელი ფოსტა იქნება ბევრად მოქნილი კონკრეტულ სიტუაციაში.
+    ERP სისტემის შესყიდვის პირველი ეტაპი, რა თქმა უნდა იქნება დაგეგმვა. შესაბამისი პერსონალის აყვანა, ვადებისა და ღირებულების დათვლა, რადგან ეს სისტემა საკმაოდ კომპლექსური და
+ასევე ძვირიანი, შესაბამისად შეცდომის დაშვება საკმაოდ ცუდად აისახება კომპანიის ფინანსურ მდგომარეობაზე. უნდა მოხდეს კომპანიის ტოპ მენეჯმენტთან საკითხების შეთანხმება, რათა მათ იცოდნენ
+როგორ იმოქმედონ, მზად არის კომპანია თუ არა საერთოდ ERP სისტემისთვის. საჭიროა სევე პაკეტის შერჩევა, რომელიც პაკეტი იქნება უკეთესი კომპანიისთვის, ფუნქციურად, ნაკლები დანახარჯით, ასევე
+მომხმარებელზე მაქსიმალურად მორგებული და მწარმოებელთან თუ მომწოდებელთან მორგებული. იმპლემენტაცია და ინსტალაცია, ამ ეტაპზე ხდება უშუალოდ სოფტის ინსტალაცია თუმცა ეს მოიცავს ძალიან ბევრ
+ეტაპს. ჩართულები უნდა იყვნენ დეველოპერები,ხარისხის კონტროლი. სოფტი უნდა იყოს სწორად კონფიგურირებული და მორგებული კომპანიის მოთხოვნებზე და უდნა შემოწმდეს ხარისხის კონტროლის მიერ.
+ეს ყველაფერი საჭიროა იმისთვის, რომ როცა სისტემა ჩაეშვება არ გვქონდეს შეცდომები და კომპანიამ იმუშაოს შეფერხების გარეშე. ხოლო ბოლო ეტაპია მისი ოპერირება და მეინთნენსი. თანამშრომლები უნდა
+დატრენინგდნენ, მიეჩვიონ ახალ სისტემას, ასევე საჭირო იქნება შესაბამისი აიტი დეპარტამენტი, რომელიც სამომავლოდ შეძლებს ERP სოფტის მოვლას, შეცმომის შემთხვევაში მის გამოსწორებას ან თუნდაც ახალი
+ფუნქციონალის დამატებას.
